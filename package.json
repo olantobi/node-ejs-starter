@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-starter-app",
+  "version": "1.0.0",
+  "description": "NodeJS starter app using Jade template",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Jade",
+    "Bootstrap"
+  ],
+  "author": "Tobi Olanrewaju",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
